@@ -5,10 +5,13 @@
     <table>
       <tr>
         <td>
-          <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KamoliddinSaparaliyev&theme=dark&background=000000" alt="webDev's Github stats" />
+          <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoliddinSaparaliyev&theme=dark" alt="GitHub Streak" /></a>
         </td>
         <td>
           <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KamoliddinSaparaliyev&layout=compact&theme=vision-friendly-dark" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=KamoliddinSaparaliyev&show_icons=true&theme=radical"/>
         </td>
       </tr>
     </table>
