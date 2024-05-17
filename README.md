@@ -10,8 +10,10 @@
         <td>
           <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KamoliddinSaparaliyev&layout=compact&theme=vision-friendly-dark" />
         </td>
+      </tr>
+       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=KamoliddinSaparaliyev&show_icons=true&theme=radical"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=KamoliddinSaparaliyev&show_icons=true&theme=dark"/>
         </td>
       </tr>
     </table>
