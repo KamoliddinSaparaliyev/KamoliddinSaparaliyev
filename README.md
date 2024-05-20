@@ -3,9 +3,6 @@
   <body>
         <table>
              <tr>
-               <th>
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=KamoliddinSaparaliyev&theme=dark" alt="GitHub Streak" />
-               </th>
               <th>
                 <img src="https://github-readme-stats.vercel.app/api?username=KamoliddinSaparaliyev&show_icons=true&theme=dark"/>  
               </th>
